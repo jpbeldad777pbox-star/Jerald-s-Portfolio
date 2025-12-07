@@ -11,9 +11,9 @@ export default function Hero() {
           <div className="hero-content">
             <div className="hero-brand">JeraldDesign</div>
             <div className="hero-text">
-              <div className="hero-greeting">Hi It's Me</div>
+              <div className="hero-greeting">Hi It&apos;s Me</div>
               <h1 className="hero-name">Jerald Beldad</h1>
-              <div className="hero-title">And I'm a UI Developer</div>
+              <div className="hero-title">And I&apos;m a UI Developer</div>
             </div>
             <div className="hero-buttons">
               <Link href="#contact" className="btn btn-primary">

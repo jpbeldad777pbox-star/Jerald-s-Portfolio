@@ -36,7 +36,7 @@ export default function About() {
               About <span className="text-cyan">me</span>
             </h2>
             <p className="about-description">
-              I'm an aspiring designer who, loves learning, experimenting with new ideas, or discovering inspiration in every project I work on.
+              I&apos;m an aspiring designer who, loves learning, experimenting with new ideas, or discovering inspiration in every project I work on.
             </p>
             <div style={{ display: 'flex', alignItems: 'center', gap: '20px', marginTop: '54px' }}>
               <Link href="#portfolio" className="btn btn-primary">
